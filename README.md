@@ -1,5 +1,3 @@
-Create a README.md in your repo:
-
 # 🎓 Node.js + MySQL CRUD API
 
 A simple RESTful CRUD application using **Node.js**, **Express**, and **MySQL**  
@@ -77,5 +75,6 @@ for managing **Students** and **Courses**.
 |DELETE	| /courses/:id	|Delete a course |
 
 ## 🧪 Testing
+
 
 Use Postman, cURL, or a browser to test endpoints.
